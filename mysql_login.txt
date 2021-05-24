@@ -1,0 +1,5 @@
+host: 172.20.10.3
+port: 3306
+database: future_predictor
+username: root
+password: red91bus
